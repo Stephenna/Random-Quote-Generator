@@ -1,0 +1,31 @@
+
+
+/*font-family: 'Pacifico', cursive;
+font-family: 'Oswald', sans-serif;*/
+
+
+
+/* COLOR SCHEME
+Fuchsia(Crayola)#DB5ABA
+Middle Red Purple #22031F
+Wild Orchid #CC76A1
+Ruddy Pink #DD9296
+Cameo Pink F2B7C6
+*/
+
+.navbar {
+    background-color: #fdf8f9;
+}
+.navbar-text{
+    color: #22031f;
+    font-family: 'Pacifico', cursive;
+    position: fixed;
+    margin:0;
+    padding:27px;
+    font-size: 20px;
+  
+}
+button{
+    background-color:#cc76a1;
+    font-family: 'Oswald', sans-serif;
+}
