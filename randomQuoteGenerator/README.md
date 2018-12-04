@@ -13,3 +13,12 @@ After I created a button, I decided to add a navbar. This was also strapped. I s
   I Bootstrapped the button. I went with an outline button for a more sleek and minimal design. In order to execute this task I used:
   <button type="button" class="btn btn-outline-info"></button> -info applied a nice turqoiuse color. 
     **To align button I placed the button in its on div. Gave the div the class of "d-flex justify-content-center". The button is now in the center
+
+GITHUB:
+ Store/saving changes 
+   --Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+ use "rm .git/index.lock" to terminate this process. Then commit changes (git commit -m "(whatever messange you want here)". Next push changes to git "git push origin "(the branch name)". All changes should show in git now. 

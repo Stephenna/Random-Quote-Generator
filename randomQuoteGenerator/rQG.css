@@ -25,7 +25,11 @@ Cameo Pink F2B7C6
     font-size: 20px;
   
 }
-button{
+.entrance {
     background-color:#cc76a1;
     font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    color: rgb(95, 6, 86);
 }
